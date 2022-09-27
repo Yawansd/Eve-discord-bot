@@ -1,0 +1,12 @@
+{
+    "color": "#34a6ef",
+    "developerGuild": "1024128518294089778",
+    "database": "mongodb+srv://oddcoder:public@cluster0.qp2djfl.mongodb.net/?retryWrites=true&w=majority",
+    "supportServer": "https://discord.gg/3DxMnFvV2H",
+    "activityInterval": 5,
+    "activities": [
+        "Watching {servercount} Servers",
+        "overlord",
+        "Made by sizzor#0001"
+    ]
+}
